@@ -1,7 +1,7 @@
 package com.example.mbaka.klicker;
 
 import android.content.Intent;
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
@@ -24,7 +24,7 @@ public class ResultActivity extends AppCompatActivity {
         tryAgain = (Button) findViewById(R.id.tryAgain);
 
         int point = getIntent().getExtras().getInt("points");
-        resultingPoints.setText(Integer.toString(point));
+        resultingPoints.setText(" "+ point);
 
 
 
