@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Klicker</string>
+    <string name="begin">СТАРТ</string>
+    <string name="help">Спаси Машу, обезвредь снежного монстра!</string>
+    <string name="leftTime">Остаток времени: </string>
+    <string name="points">Количество очков: </string>
+    <string name="timeOver">Время вышло</string>
+    <string name="yourResult">Твой результат: </string>
+    <string name="tryAgain">Попрорбовать ещё раз</string>
+</resources>
