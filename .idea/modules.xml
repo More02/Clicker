@@ -3,6 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Klicker.iml" filepath="$PROJECT_DIR$/Klicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Klicker.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Klicker.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Klicker.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Klicker.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Klicker.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Klicker.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Klicker.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Klicker.app.unitTest.iml" />
     </modules>
   </component>
 </project>
