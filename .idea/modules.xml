@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Klicker.iml" filepath="$PROJECT_DIR$/Klicker.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Klicker.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Klicker.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Klicker.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Klicker.app.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Klicker.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Klicker.app.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Klicker.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Klicker.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Clicker.iml" filepath="$PROJECT_DIR$/.idea/modules/Clicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Clicker.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Clicker.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Clicker.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Clicker.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Clicker.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Clicker.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Clicker.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Clicker.app.unitTest.iml" />
     </modules>
   </component>
 </project>
